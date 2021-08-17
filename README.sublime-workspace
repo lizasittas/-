@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"f-f",
+				"font-family\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ko",
+				"koments"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"le",
+				"margin-left\tproperty"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"blo",
+				"blok3"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"alli",
+				"align-self\tproperty"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"P",
+				"phone"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"N",
+				"name"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"get",
+				"getRandomInt"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"b",
+				"bound"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"pe",
+				"person"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"Nu",
+				"number"
+			],
+			[
+				"ca",
+				"cars"
+			],
+			[
+				"is",
+				"isRady"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 64.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Desktop/Курсы/5 week/Новая папка/index.html",
+		"/D/Desktop/Курсы/5 week/Новая папка/index.css",
+		"/D/Desktop/Курсы/5 week/style1.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa232.21263/markup-task-Cartoon-master/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa232.21263/markup-task-Cartoon-master/index.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa6996.30714/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa6996.30714/index.css",
+		"/D/Desktop/Курсы/5 week/animation1.html",
+		"/D/Desktop/Курсы/9JzPNa0gR4qczzWtIHeKxw_9e01a6b5547742b09709a58372615272_animation.html",
+		"/D/Desktop/Курсы/2.2/index.html",
+		"/D/Desktop/Курсы/2.2/index-orig.css",
+		"/D/Desktop/Курсы/index-orig.css",
+		"/D/Desktop/Курсы/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa11576.46393/base/lili",
+		"/D/Desktop/Курсы/2.1/_ae82e201e75ef61e7ff1cd4e5c63fc41_fonts.html",
+		"/D/Desktop/Курсы/2.1/щкщ.html",
+		"/E/Евтушенко/scrio/testreg.php",
+		"/E/Евтушенко/scrio/aut.php",
+		"/E/Евтушенко/scrio/save_user.php",
+		"/E/Евтушенко/scrio/reg.php",
+		"/E/Евтушенко/scrio/otzivi.php",
+		"/D/OpenServer/domains/regestr/vhod/register.php",
+		"/D/openserver/domains/test3/bd.php",
+		"/D/openserver/domains/Smart/Cart/cart.php",
+		"/D/openserver/domains/Smart/index.php",
+		"/D/openserver/domains/Smart/Cart/bd.php",
+		"/D/openserver/domains/Smart/Categories/bd.php",
+		"/D/openserver/domains/Smart/bd.php",
+		"/D/openserver/domains/test3/test.php",
+		"/D/openserver/domains/Smart/Categories/products.css",
+		"/D/OpenServer/domains/regestr/vhod/testreg.php",
+		"/E/Евтушенко/scrio/exit.php",
+		"/D/OpenServer/domains/regestr/vhod/code.php",
+		"/D/OpenServer/domains/regestr/Отзывы/index.php",
+		"/E/Евтушенко/scrio/Index.php",
+		"/D/OpenServer/domains/regestr/Отзывы/db.php",
+		"/D/OpenServer/domains/regestr/vhod/index.php",
+		"/D/OpenServer/domains/regestr/regestr/code.php",
+		"/D/OpenServer/domains/regestr/regestr/register.php",
+		"/D/OpenServer/domains/regestr/О нас/index.php",
+		"/D/OpenServer/domains/regestr/галерея/index.php",
+		"/D/OpenServer/domains/regestr/regestr/index.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.22098/Saytt/reg_user.php",
+		"/E/3-й курс/Веб/Сойт/tt/all/index.php",
+		"/E/3-й курс/Веб/Сойт/tt/all/reg_user.php",
+		"/E/3-й курс/Веб/Сойт/tt/all/reg.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.31272/Saytt/exit.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.29712/Saytt/code.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.41173/Saytt/enter_user.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.40551/Saytt/reg_user.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa13652.39878/Saytt/code.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa10968.10128/Регистрация на пыхпе/reg.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa10968.10921/Регистрация на пыхпе/reg_user.php",
+		"/D/OpenServer/domains/regestr/reg/register.php",
+		"/D/OpenServer/domains/regestr/reg/index.php",
+		"/D/OpenServer/domains/regestr/reg/code.php",
+		"/D/OpenServer/domains/regestr/reg/dbconnect.php",
+		"/D/OpenServer/domains/regestr/reg/header.php",
+		"/D/OpenServer/domains/regestr/regestr/dbconnect.php",
+		"/E/regestr/index.php",
+		"/D/OpenServer/domains/regestr/vhod/exit.php",
+		"/D/OpenServer/domains/ggg/register.php",
+		"/D/OpenServer/domains/regestr/regestr/exit.php",
+		"/E/Лиза/regestr/regestr/index.php",
+		"/E/Лиза/regestr/regestr/register.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa17120.38454/Регистрация на пыхпе/reg.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa17120.38454/Регистрация на пыхпе/reg_user.php",
+		"/D/OpenServer/domains/regestr/Главная/index.php",
+		"/D/OpenServer/domains/regestr/Контакты/index.php",
+		"/D/OpenServer/domains/regestr/Контакты/style1.css",
+		"/E/Лиза/Веб2/Контакты/style1.css",
+		"/E/Лиза/Веб2/Контакты/сайтик.html",
+		"/E/Лиза/index2.php",
+		"/D/OpenServer/domains/regestr/галерея/comm.php",
+		"/D/Desktop/Веб2/index.html",
+		"/D/OpenServer/domains/regestr/skycom/index.php",
+		"/D/OpenServer/domains/regestr/skycom/sendMessage.php",
+		"/D/OpenServer/domains/regestr/skycom/connect.php",
+		"/D/OpenServer/domains/regestr/галерея/exit.php",
+		"/D/OpenServer/domains/regestr/regestr/header.php",
+		"/D/OpenServer/domains/regestr/skycom/index.html",
+		"/E/Лиза/О нас/index.php",
+		"/D/OpenServer/domains/regestr/skycom/jquery-1.5.1.min.js",
+		"/D/OpenServer/domains/regestr/skycom/comments.php",
+		"/D/OpenServer/domains/regestr/skycom/code.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa9980.34035/Комментарии на сайт UTF-8/sendMessage.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa9980.34035/Комментарии на сайт UTF-8/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa9980.34035/Комментарии на сайт UTF-8/connect.php",
+		"/D/OpenServer/domains/regestr/regestr/fon.jpg",
+		"/D/OpenServer/domains/regestr/regestr/test.php",
+		"/D/OpenServer/domains/regestr/regestr/fon2.jpg",
+		"/D/OpenServer/domains/regestr/regestr/testreg.php",
+		"/D/OpenServer/domains/regestr/Главная/exit.php",
+		"/E/Лиза/Веб2/Главная/style.css",
+		"/E/Лиза/Веб2/Главная/сайтик2.html",
+		"/D/openserver/domains/regestr/regestr/index.php",
+		"/D/openserver/domains/regestr/regestr/testreg.php",
+		"/D/openserver/domains/regestr/regestr/test.php",
+		"/D/OpenServer/domains/regestr/О нас/exit.php",
+		"/D/OpenServer/domains/regestr/Главная/header.php",
+		"/D/OpenServer/domains/regestr/skycom/db.php",
+		"/D/OpenServer/domains/regestr/skycom/adm.php",
+		"/D/OpenServer/domains/regestr/vhod/header.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa7008.48214/eComment/ecomment.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa7008.48214/eComment/ecomment_connector.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa7008.48214/eComment/ecomment.js",
+		"/E/Лиза/h/regestr/index.php",
+		"/D/Desktop/Веб2/О нас/страница.html",
+		"/D/Desktop/Веб2/О нас/style.css",
+		"/D/OpenServer/domains/regestr/галерея/header.php",
+		"/D/OpenServer/domains/regestr/Главная/сайтик2.html",
+		"/D/OpenServer/domains/regestr/галерея/index.html",
+		"/D/OpenServer/domains/regestr/О нас/страница.html",
+		"/D/OpenServer/domains/regestr/Контакты/сайтик.html",
+		"/D/OpenServer/domains/regestr/vhod/test.php",
+		"/D/OpenServer/domains/regestr/test.php",
+		"/D/OpenServer/domains/regestr/vhod.php",
+		"/D/OpenServer/domains/regestr/testreg.php",
+		"/D/OpenServer/domains/regestr/register.php",
+		"/D/OpenServer/domains/regestr/code.php",
+		"/D/OpenServer/domains/regestr/index.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa8264.13315/Регистрация на пыхпе/reg_user.php",
+		"/D/OpenServer/domains/regestr/header.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa8264.48436/Регистрация на пыхпе/reg.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa8264.48436/Регистрация на пыхпе/code.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa8264.48436/Регистрация на пыхпе/reg_user.php",
+		"/D/Desktop/Веб2/галерея/index.html",
+		"/D/Desktop/Веб2/Главная/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
