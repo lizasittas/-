@@ -1,0 +1,127 @@
+*{
+      padding: 0;
+      margin: 0;
+}
+body{
+      background-image: url(fon.png);
+        background-attachment: fixed;
+}
+a{
+      color: black;
+}
+
+#main{
+      
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      
+}
+
+#content{
+      top: 100px;
+      position: relative;
+      
+}
+.first{
+     
+}
+.fr{
+      display: none;
+}
+.slider{
+      width: 75%;
+      height: 517px;
+      background-color: silver;
+      
+      position:   relative; 
+      left: 12.5%;
+
+}
+#shop1{
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      top: 600px;
+}
+#shop{
+
+margin-top: 215px;
+margin-bottom: 100px;
+}
+
+.categories{
+      background-color: orange;
+      width: 17.7%;
+      padding: 15px;
+      margin-left: 12.5%;
+     margin-bottom: 100px;
+      float: left;
+}
+.categor{
+     display: block;
+     margin-left: 15px;
+     margin-top: 10px;
+      font-size: 135%;
+}
+.shopzone{
+position: absolute;
+margin-left: 35.63%;
+width: 62.5%;
+height: 790px;
+margin-bottom: 100px;
+}
+
+.card{
+      width: 21.71%;
+      background-color: white;
+      margin-bottom: 90px;
+      margin-right: 7.8%;
+      display: inline-block; 
+}
+.card:hover{
+      opacity: 0.7;
+}
+
+.foto{
+      width: 100%;
+     max-height: 200px;
+     
+}
+
+.text{
+      font-size: 150%;
+      text-align: center;
+      margin-top: auto;
+
+
+}
+
+#onas{
+       width: 50px;
+      height: 50px;
+
+      position: absolute;
+      top: 1750px;
+}
+.onas{
+      width: 75%;
+    
+      background-color: white;
+      position: relative;
+     margin: auto;
+      margin-top: 1155px;  
+      align-items: center;  
+      padding: 3%;
+}
+.onastext{
+      font-size: 24px;
+      width: 1000px;
+      margin:auto;
+}
+#footer{
+      width: 100%;
+    
+      background-color: #292929;
+      margin-top: 250px;
+}

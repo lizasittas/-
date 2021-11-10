@@ -1,0 +1,45 @@
+.perehod{
+	font-size: 20px;
+	top: 150px;
+	position: relative;
+	display: inline-block;
+	left: 10%;
+	background-color: white;
+}
+#content{
+	width: 95%;
+	height: 750px;
+	background-color: white;
+	margin: auto;
+	margin-top: 200px;
+	padding: 1%;
+
+}
+.left{
+	float: left;
+	width: 35%;
+	
+	
+	position: absolute;
+}
+.foto{
+	width: 90%;
+}
+.right{
+	float: right;
+	width: 50%;
+	
+}
+.name{
+	font-size: 25px;
+}
+.t{
+	color: orange;
+}
+.opti{
+	font-size: 20px;
+}
+.nam{
+	color: orange;
+	font-size: 25px;
+}
